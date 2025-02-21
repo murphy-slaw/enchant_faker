@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.enchant_faker.title": "Enchantment Faker",
+  "text.autoconfig.enchant_faker.option.tagConfig": "Tag to Enchantment Map",
+  "text.autoconfig.enchant_faker.option.tagConfig.@PrefixText": "Each entry has an Enchantment resource location, a MobEffect tag that will apply that Enchantment, and the level of the enchantment to apply. Restart to apply changes.",
+  "text.autoconfig.enchant_faker.option.TagToEnchantmentConfig": "Tag Config",
+  "text.autoconfig.enchant_faker.option.TagToEnchantmentConfig.enchantment": "Enchantment ID",
+  "text.autoconfig.enchant_faker.option.TagToEnchantmentConfig.tag": "MobEffect Tag",
+  "text.autoconfig.enchant_faker.option.TagToEnchantmentConfig.level": "Enchantment Level"
+}
