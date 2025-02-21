@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "net.funkpla.template.mixin.client",
+	"package": "net.funkpla.enchant_faker.mixin",
 	"compatibilityLevel": "JAVA_17",
-	"client": [
-		"ExampleClientMixin"
+	"mixins": [
+		"EnchantmentHelperMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
