@@ -4,10 +4,10 @@ Lets you apply enchantments to entities based on their current status effects.
 The enchantments to apply are determined by mob_effect tags.
 
 ## Usage
-Add tags via data pack at `data/enchant_faker/tags/mob_effect/`.
+Add tags via data pack at `data/minecraft/tags/mob_effect/`.
 
 ### Example
-`data/enchant_faker/tags/mob_effect/gives_respiration.json`:
+`data/minecraft/tags/mob_effect/gives_respiration.json`:
 ```json
 {
     "replace": true,
